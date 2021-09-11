@@ -1,7 +1,9 @@
 html,
 body {
-  background:radial-gradient(200% 100% at bottom center,#F7F7B6,#E96F92,#75517D,#1B2947); 
-  background:radial-gradient(220% 105% at top center,#1B2947 10%,#75517D 40%,#E96F92 65%,#F7F7B6); 
+  background:radial-gradient(85% 75% at bottom center,#001a3b,#000613); 
+  /* background:radial-gradient(220% 105% at top center,#1B2947 10%,#1B2947 50%,#076aeb,#75517D);  */
+  /* background:  radial-gradient(#e66465, #9198e5);
+  background: repeating-radial-gradient(#1B2947,#4a17d8 , rgb(4, 40, 88) 15%);; */
   background-attachment:fixed; 
   overflow:hidden;
 }
